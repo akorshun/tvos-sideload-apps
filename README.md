@@ -15,7 +15,7 @@
 
 ### ATVLoadly (рекомендуется для Apple TV)
 
-[ATVLoadly](https://github.com/atvloadly/atvloadly) — самохостящийся Docker-контейнер с веб-интерфейсом для сайдлоада напрямую на Apple TV без компьютера рядом.
+[ATVLoadly](https://github.com/bitxeno/atvloadly) — самохостящийся Docker-контейнер с веб-интерфейсом для сайдлоада напрямую на Apple TV без компьютера рядом.
 
 1. Подними контейнер на любом сервере или домашнем NAS:
    ```bash
