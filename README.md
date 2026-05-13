@@ -21,6 +21,8 @@
 
 ### Sideloadly (через компьютер)
 
+> ⚠️ Лично не проверялся, но в целом работает с Apple TV.
+
 [Sideloadly](https://sideloadly.io/) — установка с компьютера через USB или Wi-Fi.
 
 1. Скачай и установи [Sideloadly](https://sideloadly.io/)
@@ -29,6 +31,8 @@
 4. Введи Apple ID и нажми **Start**
 
 ### AltStore
+
+> ⚠️ Лично не проверялся, но в целом работает с Apple TV.
 
 [AltStore](https://altstore.io/) — альтернативный магазин приложений через AltServer на компьютере.
 
