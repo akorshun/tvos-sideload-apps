@@ -9,7 +9,7 @@
 | Приложение | Скачать | Размер | Описание |
 |---|---|---|---|
 | 🎮 CloudNow | [CloudNow.ipa](https://github.com/akorshun/tvos-sideload-apps/raw/master/CloudNow.ipa) | 6.7 MB | Неофициальный клиент [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) для tvOS — стриминг игр с облачных серверов NVIDIA прямо на Apple TV |
-| 🎬 Infuse Pro 8 | [InfusePro8.ipa](https://github.com/akorshun/tvos-sideload-apps/raw/master/InfusePro8_tvOS_sideload_patched.ipa) | 112 MB | [Infuse Pro 8](https://firecore.com/infuse) — мощный медиаплеер с поддержкой MKV, Dolby Vision, HDR и сетевых хранилищ. Файл патчен для установки через сайдлоад без подписки. ⚠️ После установки обязательно отключи синхронизацию iCloud в настройках приложения |
+| 🎬 Infuse Pro 8 | [InfusePro8.ipa](https://github.com/akorshun/tvos-sideload-apps/raw/master/InfusePro8_tvOS_sideload_patched.ipa) | 112 MB | [Infuse Pro 8](https://firecore.com/infuse) — мощный медиаплеер с поддержкой MKV, Dolby Vision, HDR и сетевых хранилищ. Файл патчен для установки через сайдлоад без подписки. ⚠️ После установки обязательно отключи синхронизацию iCloud в настройках приложения, похоже что top shelf не работает |
 | 📺 MuTube | [mutube_4.54.01.ipa](https://github.com/akorshun/tvos-sideload-apps/raw/master/mutube_4.54.01.ipa) | 41 MB | YouTube-клиент v4.54.01 для tvOS, основанный на [TizenTube](https://github.com/reisxd/TizenTube) — оптимизированная альтернатива официальному приложению с поддержкой 4K, SponsorBlock и без рекламы |
 | 🌐 tvOS Browser | [tvOSBrowser.ipa](https://github.com/akorshun/tvos-sideload-apps/raw/master/tvOSBrowser.ipa) | 205 KB | Веб-браузер для tvOS |
 
